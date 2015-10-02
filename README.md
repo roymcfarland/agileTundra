@@ -1,3 +1,3 @@
 # agileTundra
 
-a [Sails](http://sailsjs.org) application
+crafted with [Sails](http://sailsjs.org) 
